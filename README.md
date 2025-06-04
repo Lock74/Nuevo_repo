@@ -1,2 +1,2 @@
 # Nuevo_repo
-Es una pruba para la clase de GitHub
+Es una prueba para la clase de GitHub
